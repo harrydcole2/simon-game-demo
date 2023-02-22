@@ -6,3 +6,11 @@ Simon project for cs260
 - tr and td elements are table row and column elements, which give more control when using tables
 - hr and br are useful tools for adding horizontal line divisions and line breaks respectively
 - Text spacing is based on width, not on line breaks in VS code
+
+2/21/23 CSS Simon Project
+- Absolute positioning with a translation of sorts can help center an element
+- Overriding bootstrap qualities may be important as shown in the menu for this project
+- Flex with different values: proportion then minimum (calculations also viable here see main)
+- display types to override normal ways html is shown
+- mess with border radius for shapes
+- min-width or height takes priority over normally set width or height to be responsive
