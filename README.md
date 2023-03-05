@@ -20,3 +20,4 @@ Simon project for cs260
 - document marks the top of our html DOM tree, from which we can select and manipulate elements
 - this keyword returns the actual item, which in Simon tends to be an element of the DOM to manipulate
 - await keyword which delays something before running it
+- JSON is an important way to store data in local storage but removes functions
