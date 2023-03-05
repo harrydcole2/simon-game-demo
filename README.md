@@ -14,3 +14,9 @@ Simon project for cs260
 - display types to override normal ways html is shown
 - mess with border radius for shapes
 - min-width or height takes priority over normally set width or height to be responsive
+
+3/4/23 JS Simon Project
+- we can access local storage to save things about our website on a particular browser so that the facts are remembered, and access it later (keys values)
+- document marks the top of our html DOM tree, from which we can select and manipulate elements
+- this keyword returns the actual item, which in Simon tends to be an element of the DOM to manipulate
+- await keyword which delays something before running it
