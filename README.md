@@ -21,3 +21,9 @@ Simon project for cs260
 - this keyword returns the actual item, which in Simon tends to be an element of the DOM to manipulate
 - await keyword which delays something before running it
 - JSON is an important way to store data in local storage but removes functions
+
+3/22/23 Simon Service
+- Node.js steps: create project directory, npm init -y, add node-modules to gitignore, install packages, use require in JS code for appropriate functions, run with node index.js service
+- Express is a "wrapper" which mediates numerous middlewares to interpret http requests. we use express() constructor express.Router() mostly
+- Those request and response objects have data values and member functions, which can be sent to users - see sequence diagrams if needed. It is of the form (req, res, next)
+- That service can also listen on a particular port to perform its functions effectively
