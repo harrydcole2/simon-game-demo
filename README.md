@@ -27,3 +27,11 @@ Simon project for cs260
 - Express is a "wrapper" which mediates numerous middlewares to interpret http requests. we use express() constructor express.Router() mostly
 - Those request and response objects have data values and member functions, which can be sent to users - see sequence diagrams if needed. It is of the form (req, res, next)
 - That service can also listen on a particular port to perform its functions effectively
+
+3/25/23 Simon DB
+- Environment variables must be changed in the development and production environment. Use sudo in production, and advanced setting in windows
+- Various databases exist online that can be used for a website, tailored to different needs
+- All databases support a kind of object based querires. In Mongo they are of the form database.collection.find(*regex or other method*)
+- export in js signifies a public function required elsewhere
+- We must get and update database data asyncronously 
+
