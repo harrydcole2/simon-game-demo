@@ -41,3 +41,6 @@ Simon project for cs260
 - We must encrypt whatever passwords of users we have using a package like bcrypt
 
 3/29/23 Simon WebSocket
+- For communication to happen between users, websockets can allot a server for multiple users to communicate with (an upgraded http connection of sorts)
+- ping/pong every once and awhile to see if a connection is still alive
+- in messaging, WebSockets can use connection, message, and close pattern to forward messages appropriately: connection adds to list of connections where messages are forwarded until closed
