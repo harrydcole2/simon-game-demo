@@ -33,5 +33,11 @@ Simon project for cs260
 - Various databases exist online that can be used for a website, tailored to different needs
 - All databases support a kind of object based querires. In Mongo they are of the form database.collection.find(*regex or other method*)
 - export in js signifies a public function required elsewhere
-- We must get and update database data asyncronously 
+- We must get and update database data asyncronously
 
+3/27/23 Simon Login
+- A login takes an email, password, and other necessary information and returns a cookie with an authorization token
+- Different endpoints for different HTTP requests to do different authentication functions
+- We must encrypt whatever passwords of users we have using a package like bcrypt
+
+3/29/23 Simon WebSocket
