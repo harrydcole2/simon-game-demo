@@ -90,9 +90,9 @@ function App() {
 
       <footer className='bg-dark text-dark text-muted'>
         <div className='container-fluid'>
-          <span className='text-reset'>Author Name(s)</span>
-          <a className='text-reset' href='https://github.com/webprogramming260/simon-react'>
-            Source
+          <span className='text-reset'>Harrison Cole</span>
+          <a className='text-reset' href='https://github.com/harrydcole2/simon.git'>
+            GitHub
           </a>
         </div>
       </footer>
