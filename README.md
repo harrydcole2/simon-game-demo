@@ -44,3 +44,11 @@ Simon project for cs260
 - For communication to happen between users, websockets can allot a server for multiple users to communicate with (an upgraded http connection of sorts)
 - ping/pong every once and awhile to see if a connection is still alive
 - in messaging, WebSockets can use connection, message, and close pattern to forward messages appropriately: connection adds to list of connections where messages are forwarded until closed
+
+4/19/23 Simon React
+- It is important in testing for you to have your node.js for index.js in services running as well as your npm build in the main directory. The idea is that 3001 is the app that interfaces with port 3000 for services
+- React changes our code to be handled in three rather than two parts: public, service, and src
+- use npx create-react-app in order to create a template react for you to move code into before copying it back (apparently plays into better feedback as well)
+- The power of react is such that it can use states with set functions (useState()) and effects when things render (useEffect()), allowing an application to be one page
+- Ideally, web programming starts with react rather than being ported from it
+- Kind of a pain in the behind to port over
