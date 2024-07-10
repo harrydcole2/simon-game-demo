@@ -1,5 +1,5 @@
 # Simon Demo
-A simon project for CS260, focused on learning HTML, CSS, Javascript, and React. By the end, I gained an understanding of the MERN web stack from the ground up, including other useful technologies such as Websockets, AWS EC2 instances and Route56, Caddy, and more. This README.md is intended to catalog some of my observations about the simon project as it evolves. At the time of writing, you can find the complete site at this link (but I may take it down to save money): [https://simon.harrison260site.click](url)
+A simon project for CS260, focused on learning HTML, CSS, Javascript, and React. By the end, I gained an understanding of the MERN web stack from the ground up, including other useful technologies such as Websockets, AWS EC2 instances and Route56, Caddy, and more. This README.md is intended to catalog some of my observations about the simon project as it evolves. At the time of writing, you can find the complete site at this link (but I may take it down to save money): [https://simon.harrison260site.click](https://simon.harrison260site.click)
 
 _2/8/23 HTML Simon Project_
 - Button elements can have SVG or IMG children, which gives the button an interesting design
